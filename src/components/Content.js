@@ -1,4 +1,5 @@
 import React from 'react'
+import About from './About'
 import Projects from './Projects'
 
 function Content() {
@@ -7,6 +8,7 @@ function Content() {
             {/* Projects */}
             <Projects />
             {/* About */}
+            <About />
             {/* Contact */}
             {/* Location */}
         </div>
